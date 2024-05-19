@@ -14,5 +14,6 @@ Multiprocessing for parallel environment execution is achieved through Ray.
 
 #### Example run:
 Finally, a training run is shown on the Meta World ML10 benchmark. It attains a similar performance to that given in "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning".
-<img src="_assets/ML10_run.png" alt="ML10_run" width="300">
-![ML10_run](_assets/ML10_run.png)
+
+<img src="_assets/ML10_run.png" alt="ML10_run" width="700">
+
